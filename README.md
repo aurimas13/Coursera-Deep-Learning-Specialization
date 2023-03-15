@@ -1,3 +1,16 @@
+<p align=center>
+  <img height="300px" src="https://github.com/aurimas13/Coursera-Deep-Learning-Specialization/blob/master/Coursera_Deep.jpg"/>
+</p>
+
+<p align="center" > <b> Calculator App </b> </p>
+<br>
+<p align=center>
+  <a href="https://github.com/aurimas13/Road-App/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
+  <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
+</p>
+
+https://github.com/aurimas13/Coursera-Deep-Learning-Specialization/blob/master/Coursera_Deep.jpg
+
 # Deep Learning Specialization on Coursera (offered by deeplearning.ai)
 
 Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
