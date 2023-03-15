@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="150px" src="https://github.com/aurimas13/Coursera-Deep-Learning-Specialization/blob/master/Coursera_Deep.jpg"/>
+  <img height="150px" src="https://github.com/aurimas13/Coursera-Deep-Learning-Specialization/blob/master/public/images/deeplearning.jpg"/>
 </p>
 
 <p align="center" > <b> Deep Learning specialization notes </b> </p>
