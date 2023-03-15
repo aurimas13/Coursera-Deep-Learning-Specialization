@@ -2,7 +2,7 @@
   <img height="150px" src="https://github.com/aurimas13/Coursera-Deep-Learning-Specialization/blob/master/Coursera_Deep.jpg"/>
 </p>
 
-<p align="center" > <b> Deep Learning Specialization Notes </b> </p>
+<p align="center" > <b> Deep Learning specialization notes </b> </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Road-App/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
